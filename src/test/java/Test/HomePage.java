@@ -11,6 +11,7 @@ public class HomePage {
 	@Test
 	public void homePageTestCase() {
 		LOGGER.info("HomePage TestCase -----written using logger2");
+		LOGGER.info("edited by mohit");
 	}
 	
 	//Project > Classes TestNG.xml > TestNG given to Maven > Run Maven
